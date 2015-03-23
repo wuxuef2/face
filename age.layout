@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="AAM_Util.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1685" topLine="58" />
+		</Cursor>
+	</File>
+	<File name="AAM_Basic.cpp" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3072" topLine="752" />
+		</Cursor>
+	</File>
+	<File name="AAM_Shape.cpp" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="390" topLine="171" />
+		</Cursor>
+	</File>
+	<File name="AAM_IC.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="452" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="AAM_Shape.h" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="710" topLine="14" />
+		</Cursor>
+	</File>
+	<File name="FacePredict.cpp" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="7084" topLine="31" />
+		</Cursor>
+	</File>
+	<File name="AAM_Config.h" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="709" topLine="18" />
+		</Cursor>
+	</File>
+	<File name="AAM_VJFaceDetect.cpp" open="1" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2420" topLine="125" />
+		</Cursor>
+	</File>
+	<File name="AAM_CAM.cpp" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3554" topLine="90" />
+		</Cursor>
+	</File>
+	<File name="fit.cpp" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="5649" topLine="140" />
+		</Cursor>
+	</File>
+	<File name="AAM_IC.h" open="1" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1613" topLine="25" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>

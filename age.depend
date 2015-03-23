@@ -1,0 +1,124 @@
+# depslib dependency file v1.0
+1425661031 source:/home/wuxuef/myproject/age/AAM_Basic.cpp
+	"AAM_Basic.h"
+
+1425661031 /home/wuxuef/myproject/age/AAM_Basic.h
+	"AAM_Util.h"
+	"AAM_TDM.h"
+	"AAM_CAM.h"
+
+1425661031 /home/wuxuef/myproject/age/AAM_Util.h
+	<vector>
+	<string>
+	<iostream>
+	<fstream>
+	<windows.h>
+	<stdio.h>
+	<tchar.h>
+	<direct.h>
+	<io.h>
+	<stdarg.h>
+	<sys/stat.h>
+	<unistd.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<opencv2/core/core.hpp>
+	<opencv2/imgproc/imgproc.hpp>
+	<opencv2/highgui/highgui.hpp>
+	<opencv/cvaux.h>
+	"AAM_Config.h"
+
+1425661031 /home/wuxuef/myproject/age/AAM_Config.h
+
+1425661031 /home/wuxuef/myproject/age/AAM_TDM.h
+	"AAM_Util.h"
+	"AAM_Shape.h"
+	"AAM_PAW.h"
+
+1425661031 /home/wuxuef/myproject/age/AAM_Shape.h
+	"AAM_Util.h"
+
+1425661031 /home/wuxuef/myproject/age/AAM_PAW.h
+	"AAM_Util.h"
+	"AAM_Shape.h"
+
+1425661031 /home/wuxuef/myproject/age/AAM_CAM.h
+	"AAM_TDM.h"
+	"AAM_PDM.h"
+	<windows.h>
+	<stdio.h>
+	<tchar.h>
+	<unistd.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1425661031 /home/wuxuef/myproject/age/AAM_PDM.h
+	"AAM_Util.h"
+	"AAM_Shape.h"
+
+1425371415 source:/home/wuxuef/myproject/age/AAM_CAM.cpp
+	"AAM_CAM.h"
+
+1425661031 source:/home/wuxuef/myproject/age/AAM_IC.cpp
+	"AAM_IC.h"
+
+1425661031 /home/wuxuef/myproject/age/AAM_IC.h
+	"AAM_Util.h"
+	"AAM_Shape.h"
+	"AAM_PDM.h"
+	"AAM_TDM.h"
+	"AAM_PAW.h"
+
+1425661031 source:/home/wuxuef/myproject/age/AAM_PAW.cpp
+	<set>
+	<cstdio>
+	"AAM_PAW.h"
+	"AAM_TDM.h"
+
+1425661031 source:/home/wuxuef/myproject/age/AAM_PDM.cpp
+	"AAM_PDM.h"
+
+1425661031 source:/home/wuxuef/myproject/age/AAM_Shape.cpp
+	<string>
+	<iostream>
+	<fstream>
+	"AAM_Shape.h"
+
+1425661031 source:/home/wuxuef/myproject/age/AAM_TDM.cpp
+	"AAM_TDM.h"
+	"AAM_PAW.h"
+
+1425661031 source:/home/wuxuef/myproject/age/AAM_Util.cpp
+	"AAM_Util.h"
+	<dirent.h>
+	<sys/types.h>
+	<sys/stat.h>
+
+1425661031 source:/home/wuxuef/myproject/age/AAM_VJFaceDetect.cpp
+	"AAM_VJFaceDetect.h"
+
+1425661031 /home/wuxuef/myproject/age/AAM_VJFaceDetect.h
+	"AAM_Shape.h"
+
+1425661031 source:/home/wuxuef/myproject/age/FacePredict.cpp
+	"FacePredict.h"
+
+1425661031 /home/wuxuef/myproject/age/FacePredict.h
+	"AAM_Util.h"
+	"AAM_PDM.h"
+	"AAM_TDM.h"
+
+1425561555 source:/home/wuxuef/myproject/age/fit.cpp
+	<cstdio>
+	<string>
+	<opencv/highgui.h>
+	<string.h>
+	<stdlib.h>
+	"AAM_IC.h"
+	"AAM_Basic.h"
+	"AAM_VJFaceDetect.h"
+	"FacePredict.h"
+	"AAM_Util.h"
+
